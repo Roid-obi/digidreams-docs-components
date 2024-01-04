@@ -42,6 +42,6 @@ export const ContentCard = styled.div`
   padding: 30px 20px 20px 20px;
   height: auto;
   bottom: 0;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6));
+  background: linear-gradient(180deg, rgba(33, 31, 32, 0.9) -2.3%, rgba(33, 31, 32, 0.75605) -2.3%, rgba(17, 6, 15, 0.117) -2.3%, rgba(0, 0, 0, 0.9) 100%);
   z-index: 1;
 `;
