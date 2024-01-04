@@ -14,8 +14,6 @@ export const Padding = styled.div`
 `;
 
 export const ArticleCard = styled.div`
-  /* width: 350px;
-  height: 220px; */
   border-radius: 12px;
   overflow: hidden;
   position: relative;

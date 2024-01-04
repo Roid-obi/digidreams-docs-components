@@ -40,6 +40,9 @@ export const CardImage: Story = {
         Earum rerum vero, nostrum, cupiditate repellat quod distinctio facilis repellendus iste ratione reprehenderit architecto est itaque, sequi molestias.
       </p>,
     
-    style: { height: "378px", width: "558px" },
+    style: { 
+      height: "378px", 
+      width: "558px",
+    },
   }
 };
