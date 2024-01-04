@@ -33,5 +33,10 @@
     "eslint-plugin-storybook": "^0.6.15",
     "storybook": "7.6.7",
     "typescript": "^5"
+  },
+  "resolutions": {
+    "string-width": "^4",
+    "jackspeak": "2.1.1",
+    "strip-ansi": "^6"
   }
 }
